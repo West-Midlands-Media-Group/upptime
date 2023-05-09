@@ -9,8 +9,8 @@ sites:
     url: https://brum.radio
   - name: Devote Radio
     url: https://devote.radio
-  - name: Brum Radio Stream
-    url: https://stream.brum.radio/radio.mp3
+  - name: Brum Radio Stream Server
+    url: https://stream.brum.radio
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
