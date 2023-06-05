@@ -40,7 +40,7 @@
     "url": "https://devote.radio",
     "icon": "https://icons.duckduckgo.com/ip3/devote.radio.ico",
     "slug": "devote-radio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 1006,
     "timeMonth": 1182,
     "timeYear": 1182,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-05": 0
+    }
   },
   {
     "name": "Brum Radio Stream Server",
