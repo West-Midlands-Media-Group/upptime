@@ -58,17 +58,19 @@
     "url": "https://stream.brum.radio",
     "icon": "https://icons.duckduckgo.com/ip3/stream.brum.radio.ico",
     "slug": "brum-radio-stream-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 553,
-    "timeDay": 605,
-    "timeWeek": 509,
-    "timeMonth": 553,
-    "timeYear": 553,
-    "dailyMinutesDown": {}
+    "time": 537,
+    "timeDay": 320,
+    "timeWeek": 450,
+    "timeMonth": 537,
+    "timeYear": 537,
+    "dailyMinutesDown": {
+      "2023-06-08": 0
+    }
   }
 ]
