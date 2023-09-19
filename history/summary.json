@@ -33,7 +33,9 @@
     "timeWeek": 1610,
     "timeMonth": 1610,
     "timeYear": 1610,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-19": 0
+    }
   },
   {
     "name": "Haze App Backend",
