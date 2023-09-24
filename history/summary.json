@@ -22,7 +22,7 @@
     "url": "https://hazeband.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/hazeband.co.uk.ico",
     "slug": "haze",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.49%",
@@ -34,6 +34,7 @@
     "timeMonth": 691,
     "timeYear": 691,
     "dailyMinutesDown": {
+      "2023-09-24": 0,
       "2023-09-19": 48
     }
   },
