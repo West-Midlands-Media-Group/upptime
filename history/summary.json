@@ -43,19 +43,19 @@
     "url": "https://app.hazeband.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/app.hazeband.co.uk.ico",
     "slug": "haze-app-backend",
-    "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.97%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.98%",
     "time": 184,
     "timeDay": 199,
     "timeWeek": 177,
     "timeMonth": 181,
     "timeYear": 184,
     "dailyMinutesDown": {
-      "2023-12-12": 8,
+      "2023-12-12": 0,
       "2023-10-30": 26
     }
   }
