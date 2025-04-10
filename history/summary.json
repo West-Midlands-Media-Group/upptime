@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/wmmg.uk.ico",
     "slug": "wmmg",
     "status": "down",
-    "uptime": "66.55%",
+    "uptime": "66.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 186,
     "timeYear": 389,
     "dailyMinutesDown": {
-      "2025-04-10": 1150,
+      "2025-04-10": 1188,
       "2025-04-09": 1440,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
@@ -262,13 +262,13 @@
     "slug": "haze",
     "status": "up",
     "uptime": "99.55%",
-    "uptimeDay": "70.22%",
-    "uptimeWeek": "63.95%",
+    "uptimeDay": "71.48%",
+    "uptimeWeek": "63.99%",
     "uptimeMonth": "91.48%",
     "uptimeYear": "99.29%",
     "time": 2053,
-    "timeDay": 3565,
-    "timeWeek": 3599,
+    "timeDay": 3576,
+    "timeWeek": 3619,
     "timeMonth": 3288,
     "timeYear": 2479,
     "dailyMinutesDown": {
@@ -287,15 +287,15 @@
     "url": "https://app.hazeband.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/app.hazeband.co.uk.ico",
     "slug": "haze-app-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "70.71%",
-    "uptimeWeek": "72.87%",
-    "uptimeMonth": "92.69%",
-    "uptimeYear": "99.39%",
-    "time": 1480,
+    "uptimeDay": "71.49%",
+    "uptimeWeek": "72.91%",
+    "uptimeMonth": "92.76%",
+    "uptimeYear": "99.40%",
+    "time": 1482,
     "timeDay": 1354,
-    "timeWeek": 2550,
+    "timeWeek": 2579,
     "timeMonth": 2284,
     "timeYear": 1611,
     "dailyMinutesDown": {
@@ -307,7 +307,7 @@
       "2025-04-05": 384,
       "2025-04-04": 285,
       "2025-04-03": 344,
-      "2025-04-02": 142
+      "2025-04-02": 111
     }
   }
 ]
