@@ -16,7 +16,7 @@
     "timeMonth": 185,
     "timeYear": 388,
     "dailyMinutesDown": {
-      "2025-04-12": 1124,
+      "2025-04-12": 1132,
       "2025-04-11": 1440,
       "2025-04-10": 1440,
       "2025-04-09": 1440,
@@ -264,12 +264,12 @@
     "slug": "haze",
     "status": "up",
     "uptime": "99.52%",
-    "uptimeDay": "54.64%",
+    "uptimeDay": "55.04%",
     "uptimeWeek": "60.88%",
     "uptimeMonth": "91.00%",
     "uptimeYear": "99.25%",
     "time": 2288,
-    "timeDay": 3098,
+    "timeDay": 3138,
     "timeWeek": 3648,
     "timeMonth": 3326,
     "timeYear": 2540,
@@ -288,15 +288,15 @@
     "url": "https://app.hazeband.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/app.hazeband.co.uk.ico",
     "slug": "haze-app-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "79.09%",
+    "uptimeDay": "79.08%",
     "uptimeWeek": "72.21%",
-    "uptimeMonth": "92.30%",
+    "uptimeMonth": "92.36%",
     "uptimeYear": "99.36%",
-    "time": 1513,
+    "time": 1515,
     "timeDay": 3243,
-    "timeWeek": 2635,
+    "timeWeek": 2646,
     "timeMonth": 2382,
     "timeYear": 1696,
     "dailyMinutesDown": {
@@ -308,7 +308,7 @@
       "2025-04-07": 445,
       "2025-04-06": 352,
       "2025-04-05": 384,
-      "2025-04-04": 269
+      "2025-04-04": 243
     }
   }
 ]
