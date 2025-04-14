@@ -9,14 +9,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "34.56%",
+    "uptimeYear": "34.55%",
     "time": 424,
     "timeDay": 128,
     "timeWeek": 175,
     "timeMonth": 188,
     "timeYear": 387,
     "dailyMinutesDown": {
-      "2025-04-14": 1364,
+      "2025-04-14": 1373,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
       "2025-04-11": 1440,
@@ -266,15 +266,15 @@
     "slug": "haze",
     "status": "down",
     "uptime": "99.51%",
-    "uptimeDay": "52.67%",
+    "uptimeDay": "52.65%",
     "uptimeWeek": "60.74%",
-    "uptimeMonth": "90.76%",
+    "uptimeMonth": "90.80%",
     "uptimeYear": "99.23%",
-    "time": 2344,
-    "timeDay": 3899,
-    "timeWeek": 3710,
-    "timeMonth": 3437,
-    "timeYear": 2629,
+    "time": 2349,
+    "timeDay": 3939,
+    "timeWeek": 3717,
+    "timeMonth": 3440,
+    "timeYear": 2632,
     "dailyMinutesDown": {
       "2025-04-14": 665,
       "2025-04-13": 354,
@@ -283,7 +283,7 @@
       "2025-04-10": 502,
       "2025-04-09": 662,
       "2025-04-08": 519,
-      "2025-04-07": 91
+      "2025-04-07": 74
     }
   },
   {
@@ -299,7 +299,7 @@
     "uptimeYear": "99.35%",
     "time": 1570,
     "timeDay": 3139,
-    "timeWeek": 2684,
+    "timeWeek": 2703,
     "timeMonth": 2495,
     "timeYear": 1781,
     "dailyMinutesDown": {
