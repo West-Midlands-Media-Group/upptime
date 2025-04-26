@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/wmmg.uk.ico",
     "slug": "wmmg",
     "status": "down",
-    "uptime": "65.08%",
+    "uptime": "65.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "31.35%",
+    "uptimeYear": "31.34%",
     "time": 419,
     "timeDay": 145,
     "timeWeek": 183,
     "timeMonth": 188,
     "timeYear": 382,
     "dailyMinutesDown": {
-      "2025-04-26": 950,
+      "2025-04-26": 1001,
       "2025-04-25": 1440,
       "2025-04-24": 1440,
       "2025-04-23": 1440,
@@ -276,15 +276,15 @@
     "url": "https://hazeband.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/hazeband.co.uk.ico",
     "slug": "haze",
-    "status": "up",
-    "uptime": "99.48%",
-    "uptimeDay": "92.51%",
-    "uptimeWeek": "91.75%",
-    "uptimeMonth": "90.02%",
+    "status": "down",
+    "uptime": "99.49%",
+    "uptimeDay": "95.21%",
+    "uptimeWeek": "91.92%",
+    "uptimeMonth": "90.06%",
     "uptimeYear": "99.17%",
-    "time": 2482,
-    "timeDay": 1256,
-    "timeWeek": 2517,
+    "time": 2484,
+    "timeDay": 1251,
+    "timeWeek": 2535,
     "timeMonth": 3463,
     "timeYear": 2699,
     "dailyMinutesDown": {
@@ -302,7 +302,7 @@
       "2025-04-15": 916,
       "2025-04-14": 686,
       "2025-04-13": 354,
-      "2025-04-12": 258
+      "2025-04-12": 240
     }
   },
   {
@@ -312,17 +312,16 @@
     "slug": "haze-app-backend",
     "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "98.25%",
-    "uptimeWeek": "97.24%",
-    "uptimeMonth": "92.17%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "97.32%",
+    "uptimeMonth": "92.15%",
     "uptimeYear": "99.35%",
     "time": 1660,
-    "timeDay": 1217,
+    "timeDay": 1264,
     "timeWeek": 1369,
     "timeMonth": 2398,
     "timeYear": 1766,
     "dailyMinutesDown": {
-      "2025-04-26": 8,
       "2025-04-25": 51,
       "2025-04-24": 61,
       "2025-04-23": 19,
@@ -336,7 +335,7 @@
       "2025-04-13": 555,
       "2025-04-12": 401,
       "2025-04-11": 313,
-      "2025-04-10": 149
+      "2025-04-10": 165
     }
   }
 ]
