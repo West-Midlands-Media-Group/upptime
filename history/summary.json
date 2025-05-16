@@ -9,14 +9,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "25.96%",
+    "uptimeYear": "25.94%",
     "time": 411,
     "timeDay": 167,
     "timeWeek": 183,
     "timeMonth": 224,
     "timeYear": 376,
     "dailyMinutesDown": {
-      "2025-05-16": 474,
+      "2025-05-16": 574,
       "2025-05-15": 1440,
       "2025-05-14": 1440,
       "2025-05-13": 1440,
@@ -298,17 +298,16 @@
     "slug": "haze",
     "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "94.39%",
-    "uptimeWeek": "93.84%",
-    "uptimeMonth": "93.29%",
-    "uptimeYear": "99.44%",
+    "uptimeDay": "97.08%",
+    "uptimeWeek": "93.93%",
+    "uptimeMonth": "93.21%",
+    "uptimeYear": "99.43%",
     "time": 2446,
-    "timeDay": 3838,
+    "timeDay": 3145,
     "timeWeek": 2637,
-    "timeMonth": 2714,
+    "timeMonth": 2715,
     "timeYear": 2674,
     "dailyMinutesDown": {
-      "2025-05-16": 8,
       "2025-05-15": 90,
       "2025-05-14": 158,
       "2025-05-13": 32,
@@ -336,7 +335,8 @@
       "2025-04-21": 199,
       "2025-04-20": 66,
       "2025-04-19": 52,
-      "2025-04-18": 127
+      "2025-04-18": 127,
+      "2025-04-17": 40
     }
   },
   {
@@ -344,18 +344,19 @@
     "url": "https://app.hazeband.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/app.hazeband.co.uk.ico",
     "slug": "haze-app-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "97.92%",
-    "uptimeWeek": "96.23%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "96.22%",
     "uptimeMonth": "95.89%",
     "uptimeYear": "99.38%",
-    "time": 1598,
-    "timeDay": 3059,
+    "time": 1600,
+    "timeDay": 3374,
     "timeWeek": 1826,
-    "timeMonth": 1628,
+    "timeMonth": 1599,
     "timeYear": 1750,
     "dailyMinutesDown": {
+      "2025-05-16": 0,
       "2025-05-15": 30,
       "2025-05-14": 69,
       "2025-05-13": 17,
@@ -382,7 +383,7 @@
       "2025-04-16": 301,
       "2025-04-15": 698,
       "2025-04-14": 367,
-      "2025-04-13": 333
+      "2025-04-13": 314
     }
   }
 ]
