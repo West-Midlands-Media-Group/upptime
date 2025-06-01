@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/wmmg.uk.ico",
     "slug": "wmmg",
     "status": "down",
-    "uptime": "61.98%",
+    "uptime": "61.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "21.51%",
+    "uptimeYear": "21.50%",
     "time": 407,
     "timeDay": 343,
     "timeWeek": 272,
     "timeMonth": 278,
     "timeYear": 376,
     "dailyMinutesDown": {
-      "2025-06-01": 839,
+      "2025-06-01": 887,
       "2025-05-31": 1440,
       "2025-05-30": 1440,
       "2025-05-29": 1440,
@@ -312,16 +312,16 @@
     "url": "https://hazeband.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/hazeband.co.uk.ico",
     "slug": "haze",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
     "uptimeDay": "96.09%",
     "uptimeWeek": "91.11%",
-    "uptimeMonth": "93.84%",
-    "uptimeYear": "99.43%",
+    "uptimeMonth": "93.89%",
+    "uptimeYear": "99.44%",
     "time": 2520,
     "timeDay": 1091,
     "timeWeek": 1875,
-    "timeMonth": 2193,
+    "timeMonth": 2201,
     "timeYear": 2615,
     "dailyMinutesDown": {
       "2025-06-01": 40,
@@ -354,8 +354,7 @@
       "2025-05-02": 202,
       "2025-05-01": 131,
       "2025-04-30": 83,
-      "2025-04-29": 77,
-      "2025-04-28": 50
+      "2025-04-29": 77
     }
   },
   {
@@ -364,10 +363,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.hazeband.co.uk.ico",
     "slug": "haze-app-backend",
     "status": "up",
-    "uptime": "99.66%",
-    "uptimeDay": "96.37%",
-    "uptimeWeek": "96.33%",
-    "uptimeMonth": "96.85%",
+    "uptime": "99.65%",
+    "uptimeDay": "96.94%",
+    "uptimeWeek": "96.41%",
+    "uptimeMonth": "96.87%",
     "uptimeYear": "99.41%",
     "time": 1615,
     "timeDay": 654,
@@ -375,7 +374,7 @@
     "timeMonth": 1529,
     "timeYear": 1734,
     "dailyMinutesDown": {
-      "2025-06-01": 37,
+      "2025-06-01": 29,
       "2025-05-31": 15,
       "2025-05-30": 88,
       "2025-05-29": 64,
@@ -415,7 +414,7 @@
       "2025-04-18": 137,
       "2025-04-17": 235,
       "2025-04-16": 301,
-      "2025-04-15": 530
+      "2025-04-15": 553
     }
   }
 ]
