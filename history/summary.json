@@ -9,14 +9,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "18.24%",
+    "uptimeYear": "18.22%",
     "time": 397,
     "timeDay": 149,
     "timeWeek": 208,
     "timeMonth": 238,
     "timeYear": 369,
     "dailyMinutesDown": {
-      "2025-06-13": 707,
+      "2025-06-13": 833,
       "2025-06-12": 1440,
       "2025-06-11": 1440,
       "2025-06-10": 1440,
@@ -325,18 +325,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/hazeband.co.uk.ico",
     "slug": "haze",
     "status": "up",
-    "uptime": "99.70%",
-    "uptimeDay": "92.98%",
-    "uptimeWeek": "94.98%",
-    "uptimeMonth": "94.77%",
+    "uptime": "99.69%",
+    "uptimeDay": "93.56%",
+    "uptimeWeek": "95.07%",
+    "uptimeMonth": "94.79%",
     "uptimeYear": "99.47%",
     "time": 2490,
     "timeDay": 1136,
-    "timeWeek": 1587,
+    "timeWeek": 1595,
     "timeMonth": 1853,
     "timeYear": 2554,
     "dailyMinutesDown": {
-      "2025-06-13": 32,
+      "2025-06-13": 24,
       "2025-06-12": 69,
       "2025-06-11": 132,
       "2025-06-10": 38,
@@ -369,7 +369,8 @@
       "2025-05-11": 125,
       "2025-05-10": 75,
       "2025-05-09": 37,
-      "2025-05-08": 150
+      "2025-05-08": 150,
+      "2025-05-07": 21
     }
   },
   {
@@ -377,18 +378,19 @@
     "url": "https://app.hazeband.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/app.hazeband.co.uk.ico",
     "slug": "haze-app-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "98.89%",
     "uptimeMonth": "97.71%",
-    "uptimeYear": "99.48%",
-    "time": 1665,
+    "uptimeYear": "99.49%",
+    "time": 1667,
     "timeDay": 837,
     "timeWeek": 1080,
     "timeMonth": 1473,
     "timeYear": 1713,
     "dailyMinutesDown": {
+      "2025-06-13": 0,
       "2025-06-11": 40,
       "2025-06-10": 48,
       "2025-06-09": 24,
@@ -433,7 +435,7 @@
       "2025-04-21": 101,
       "2025-04-18": 137,
       "2025-04-17": 235,
-      "2025-04-16": 240
+      "2025-04-16": 223
     }
   }
 ]
