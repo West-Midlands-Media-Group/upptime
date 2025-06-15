@@ -9,14 +9,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "17.66%",
+    "uptimeYear": "17.65%",
     "time": 396,
     "timeDay": 212,
     "timeWeek": 204,
     "timeMonth": 238,
     "timeYear": 368,
     "dailyMinutesDown": {
-      "2025-06-15": 885,
+      "2025-06-15": 944,
       "2025-06-14": 1440,
       "2025-06-13": 1440,
       "2025-06-12": 1440,
@@ -328,17 +328,17 @@
     "slug": "haze",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "97.38%",
-    "uptimeWeek": "94.05%",
-    "uptimeMonth": "94.87%",
+    "uptimeDay": "98.24%",
+    "uptimeWeek": "94.28%",
+    "uptimeMonth": "94.90%",
     "uptimeYear": "99.48%",
     "time": 2369,
     "timeDay": 2555,
-    "timeWeek": 1736,
-    "timeMonth": 1827,
+    "timeWeek": 1738,
+    "timeMonth": 1818,
     "timeYear": 2549,
     "dailyMinutesDown": {
-      "2025-06-15": 37,
+      "2025-06-15": 25,
       "2025-06-14": 87,
       "2025-06-13": 86,
       "2025-06-12": 69,
@@ -371,7 +371,7 @@
       "2025-05-13": 32,
       "2025-05-12": 94,
       "2025-05-11": 125,
-      "2025-05-10": 17
+      "2025-05-10": 56
     }
   },
   {
@@ -379,18 +379,19 @@
     "url": "https://app.hazeband.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/app.hazeband.co.uk.ico",
     "slug": "haze-app-backend",
-    "status": "up",
-    "uptime": "99.70%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.71%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "98.42%",
     "uptimeMonth": "97.83%",
-    "uptimeYear": "99.48%",
-    "time": 1674,
+    "uptimeYear": "99.49%",
+    "time": 1676,
     "timeDay": 807,
     "timeWeek": 832,
-    "timeMonth": 1438,
+    "timeMonth": 1396,
     "timeYear": 1710,
     "dailyMinutesDown": {
+      "2025-06-15": 0,
       "2025-06-14": 31,
       "2025-06-13": 16,
       "2025-06-11": 40,
@@ -437,7 +438,7 @@
       "2025-04-21": 101,
       "2025-04-18": 137,
       "2025-04-17": 235,
-      "2025-04-16": 188
+      "2025-04-16": 158
     }
   }
 ]
