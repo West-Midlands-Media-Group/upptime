@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/wmmg.uk.ico",
     "slug": "wmmg",
     "status": "down",
-    "uptime": "60.41%",
+    "uptime": "60.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "16.19%",
+    "uptimeYear": "16.13%",
     "time": 393,
     "timeDay": 507,
     "timeWeek": 309,
     "timeMonth": 236,
     "timeYear": 359,
     "dailyMinutesDown": {
-      "2025-06-21": 115,
+      "2025-06-21": 417,
       "2025-06-20": 1440,
       "2025-06-19": 1440,
       "2025-06-18": 1440,
@@ -330,9 +330,9 @@
     "url": "https://hazeband.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/hazeband.co.uk.ico",
     "slug": "haze",
-    "status": "up",
-    "uptime": "99.69%",
-    "uptimeDay": "90.31%",
+    "status": "down",
+    "uptime": "99.70%",
+    "uptimeDay": "90.29%",
     "uptimeWeek": "94.53%",
     "uptimeMonth": "94.19%",
     "uptimeYear": "99.46%",
@@ -342,6 +342,7 @@
     "timeMonth": 1625,
     "timeYear": 2514,
     "dailyMinutesDown": {
+      "2025-06-21": 0,
       "2025-06-20": 140,
       "2025-06-19": 71,
       "2025-06-18": 84,
@@ -376,7 +377,7 @@
       "2025-05-19": 58,
       "2025-05-16": 28,
       "2025-05-15": 90,
-      "2025-05-14": 130
+      "2025-05-14": 93
     }
   },
   {
