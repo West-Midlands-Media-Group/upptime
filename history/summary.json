@@ -6,8 +6,8 @@
     "slug": "wmmg",
     "status": "up",
     "uptime": "59.67%",
-    "uptimeDay": "4.74%",
-    "uptimeWeek": "0.68%",
+    "uptimeDay": "5.44%",
+    "uptimeWeek": "0.78%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "13.55%",
     "time": 383,
@@ -339,9 +339,9 @@
     "url": "https://hazeband.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/hazeband.co.uk.ico",
     "slug": "haze",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "95.19%",
     "uptimeMonth": "94.77%",
     "uptimeYear": "99.50%",
@@ -351,6 +351,7 @@
     "timeMonth": 1393,
     "timeYear": 2459,
     "dailyMinutesDown": {
+      "2025-06-30": 0,
       "2025-06-29": 81,
       "2025-06-28": 88,
       "2025-06-27": 76,
@@ -383,7 +384,7 @@
       "2025-05-31": 36,
       "2025-05-30": 153,
       "2025-05-29": 111,
-      "2025-05-28": 97
+      "2025-05-28": 60
     }
   },
   {
