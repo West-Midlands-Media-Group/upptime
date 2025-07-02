@@ -4,19 +4,19 @@
     "url": "https://wmmg.uk",
     "icon": "https://icons.duckduckgo.com/ip3/wmmg.uk.ico",
     "slug": "wmmg",
-    "status": "down",
+    "status": "up",
     "uptime": "59.69%",
-    "uptimeDay": "63.44%",
+    "uptimeDay": "63.09%",
     "uptimeWeek": "21.37%",
     "uptimeMonth": "6.30%",
-    "uptimeYear": "13.36%",
+    "uptimeYear": "13.35%",
     "time": 439,
     "timeDay": 344,
-    "timeWeek": 697,
-    "timeMonth": 599,
+    "timeWeek": 695,
+    "timeMonth": 598,
     "timeYear": 422,
     "dailyMinutesDown": {
-      "2025-07-02": 503,
+      "2025-07-02": 511,
       "2025-07-01": 412,
       "2025-06-30": 1117,
       "2025-06-29": 1440,
@@ -396,9 +396,9 @@
     "slug": "haze-app-backend",
     "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "98.04%",
-    "uptimeWeek": "96.19%",
-    "uptimeMonth": "97.84%",
+    "uptimeDay": "98.78%",
+    "uptimeWeek": "96.29%",
+    "uptimeMonth": "97.87%",
     "uptimeYear": "99.49%",
     "time": 1654,
     "timeDay": 860,
@@ -406,7 +406,7 @@
     "timeMonth": 925,
     "timeYear": 1658,
     "dailyMinutesDown": {
-      "2025-07-02": 29,
+      "2025-07-02": 18,
       "2025-07-01": 108,
       "2025-06-30": 63,
       "2025-06-29": 45,
@@ -460,7 +460,7 @@
       "2025-04-30": 77,
       "2025-04-29": 20,
       "2025-04-28": 73,
-      "2025-04-25": 17
+      "2025-04-25": 34
     }
   }
 ]
