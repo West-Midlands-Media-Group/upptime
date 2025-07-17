@@ -5,10 +5,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/wmmg.uk.ico",
     "slug": "wmmg",
     "status": "up",
-    "uptime": "60.31%",
+    "uptime": "60.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
-    "uptimeMonth": "51.70%",
+    "uptimeMonth": "51.76%",
     "uptimeYear": "13.08%",
     "time": 451,
     "timeDay": 6708,
@@ -347,12 +347,12 @@
     "slug": "haze",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "83.32%",
+    "uptimeDay": "83.57%",
     "uptimeWeek": "90.17%",
     "uptimeMonth": "93.44%",
     "uptimeYear": "99.45%",
     "time": 2337,
-    "timeDay": 857,
+    "timeDay": 904,
     "timeWeek": 1654,
     "timeMonth": 1537,
     "timeYear": 2422,
@@ -391,9 +391,9 @@
     "url": "https://app.hazeband.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/app.hazeband.co.uk.ico",
     "slug": "haze-app-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "94.40%",
+    "uptimeDay": "94.38%",
     "uptimeWeek": "84.77%",
     "uptimeMonth": "94.34%",
     "uptimeYear": "99.30%",
@@ -458,7 +458,7 @@
       "2025-05-14": 69,
       "2025-05-13": 17,
       "2025-05-12": 58,
-      "2025-05-11": 36
+      "2025-05-11": 15
     }
   }
 ]
