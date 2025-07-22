@@ -5,10 +5,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/wmmg.uk.ico",
     "slug": "wmmg",
     "status": "up",
-    "uptime": "60.53%",
+    "uptime": "60.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "66.03%",
+    "uptimeMonth": "66.69%",
     "uptimeYear": "13.08%",
     "time": 452,
     "timeDay": 279,
@@ -345,18 +345,19 @@
     "url": "https://hazeband.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/hazeband.co.uk.ico",
     "slug": "haze",
-    "status": "up",
-    "uptime": "99.69%",
-    "uptimeDay": "96.09%",
-    "uptimeWeek": "85.06%",
-    "uptimeMonth": "93.21%",
-    "uptimeYear": "99.43%",
-    "time": 2311,
+    "status": "down",
+    "uptime": "99.70%",
+    "uptimeDay": "97.36%",
+    "uptimeWeek": "85.43%",
+    "uptimeMonth": "93.26%",
+    "uptimeYear": "99.44%",
+    "time": 2312,
     "timeDay": 1431,
-    "timeWeek": 2079,
+    "timeWeek": 2104,
     "timeMonth": 1730,
     "timeYear": 2428,
     "dailyMinutesDown": {
+      "2025-07-22": 1,
       "2025-07-21": 57,
       "2025-07-20": 216,
       "2025-07-19": 311,
@@ -380,7 +381,7 @@
       "2025-06-30": 16,
       "2025-06-29": 81,
       "2025-06-28": 88,
-      "2025-06-27": 76
+      "2025-06-27": 51
     }
   },
   {
@@ -388,18 +389,19 @@
     "url": "https://app.hazeband.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/app.hazeband.co.uk.ico",
     "slug": "haze-app-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "98.43%",
+    "uptimeDay": "98.41%",
     "uptimeWeek": "82.37%",
     "uptimeMonth": "93.67%",
     "uptimeYear": "99.28%",
-    "time": 1566,
+    "time": 1567,
     "timeDay": 802,
     "timeWeek": 1401,
     "timeMonth": 1141,
     "timeYear": 1645,
     "dailyMinutesDown": {
+      "2025-07-22": 0,
       "2025-07-21": 23,
       "2025-07-20": 55,
       "2025-07-19": 228,
@@ -451,7 +453,7 @@
       "2025-05-23": 44,
       "2025-05-22": 26,
       "2025-05-20": 32,
-      "2025-05-19": 38
+      "2025-05-19": 22
     }
   }
 ]
