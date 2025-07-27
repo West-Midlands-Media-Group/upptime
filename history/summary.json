@@ -5,10 +5,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/wmmg.uk.ico",
     "slug": "wmmg",
     "status": "up",
-    "uptime": "60.78%",
+    "uptime": "60.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "83.11%",
+    "uptimeMonth": "83.62%",
     "uptimeYear": "13.08%",
     "time": 449,
     "timeDay": 389,
@@ -345,19 +345,19 @@
     "url": "https://hazeband.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/hazeband.co.uk.ico",
     "slug": "haze",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "92.53%",
-    "uptimeWeek": "87.79%",
-    "uptimeMonth": "92.77%",
+    "uptimeDay": "92.48%",
+    "uptimeWeek": "87.78%",
+    "uptimeMonth": "92.83%",
     "uptimeYear": "99.40%",
     "time": 2374,
-    "timeDay": 2125,
-    "timeWeek": 1789,
+    "timeDay": 1061,
+    "timeWeek": 1791,
     "timeMonth": 1717,
     "timeYear": 2410,
     "dailyMinutesDown": {
-      "2025-07-27": 33,
+      "2025-07-27": 34,
       "2025-07-26": 75,
       "2025-07-25": 215,
       "2025-07-24": 169,
@@ -378,7 +378,7 @@
       "2025-07-08": 84,
       "2025-07-07": 70,
       "2025-07-06": 68,
-      "2025-07-05": 113
+      "2025-07-05": 85
     }
   },
   {
@@ -386,18 +386,19 @@
     "url": "https://app.hazeband.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/app.hazeband.co.uk.ico",
     "slug": "haze-app-backend",
-    "status": "up",
-    "uptime": "99.60%",
-    "uptimeDay": "97.51%",
+    "status": "down",
+    "uptime": "99.61%",
+    "uptimeDay": "97.49%",
     "uptimeWeek": "95.31%",
     "uptimeMonth": "93.36%",
-    "uptimeYear": "99.26%",
-    "time": 1612,
+    "uptimeYear": "99.27%",
+    "time": 1613,
     "timeDay": 1449,
     "timeWeek": 1233,
     "timeMonth": 1142,
     "timeYear": 1646,
     "dailyMinutesDown": {
+      "2025-07-27": 0,
       "2025-07-26": 36,
       "2025-07-25": 73,
       "2025-07-24": 164,
@@ -446,8 +447,7 @@
       "2025-05-31": 15,
       "2025-05-30": 88,
       "2025-05-29": 64,
-      "2025-05-28": 21,
-      "2025-05-27": 20
+      "2025-05-28": 21
     }
   }
 ]
